@@ -1,0 +1,1 @@
+web: gunicorn config.wsl --log-file -
